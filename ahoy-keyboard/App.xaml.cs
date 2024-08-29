@@ -2,7 +2,7 @@
 using System.Data;
 using System.Windows;
 
-namespace ahoy_keyboard
+namespace AhoyKeyboard
 {
     /// <summary>
     /// Interaction logic for App.xaml
